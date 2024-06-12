@@ -1,6 +1,6 @@
 ## 1 2 3, LET’S GO SWITCH!
 #### By: Shafa Kirana Mulia
---
+
 **Description**
 Rara is really waiting for the Reputation TV to be released. Her favorite song from the
 Reputation album is Delicate with its iconic chant of "1 2 3, LET’S GO-". Oops, the real
