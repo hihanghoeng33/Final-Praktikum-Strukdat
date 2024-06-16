@@ -7,6 +7,8 @@ Kamu adalah seorang speedrunner yang sangat kompetitif dalam game **"undead-cell
 - **Batas Waktu:** 3 detik
 - **Batas Memori:** 256 MB
 
+![Foto](/img-Src/final-boss.png/) <br>
+**Foto : You vs The guy she told you not to worry about (final boss)** <br>
 ## Tujuan
 Tugas utama kamu adalah memprediksi waktu refill potion heal yang efisien agar bisa menyelesaikan run dengan waktu minimal.
 
@@ -14,6 +16,14 @@ Tugas utama kamu adalah memprediksi waktu refill potion heal yang efisien agar b
 - Healing potion dapat diisi ulang, tetapi akan meningkatkan waktu yang dibutuhkan untuk menyelesaikan speedrun.
 - Tiap area memiliki durasi sebanyak 3 detik untuk refill potion.
 - Jika prediksi jumlah refill lebih kecil dari kebutuhan sebenarnya, output akan berupa pesan kesalahan.
+
+![Foto1](/img-Src/refill.png/) <br>
+**Foto : Healing potion refill** <br>
+
+Kamu memikirkan macam-macam strategi sebelum melanjutkan ke difficulty ini.<br>
+Kemudian kamu berpikir untuk membuat sebuah code untuk memprediksi<br>
+jumlah waktu minimum refill heal potion yang dapat kamu gunakan dalam run ini<br>
+tanpa compromise waktu/durasi speedrun yang kamu jalani. <br>
 
 ## Format Input
 1. **n:** Jumlah area
